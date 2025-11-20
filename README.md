@@ -1,7 +1,3 @@
-
-**AbdalluhMahmoud/AbdalluhMahmoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are # 💫 About Me:
 I am a dedicated and motivated individual with a strong passion for learning and self-improvement. I constantly seek opportunities to develop new skills, especially in technology and problem-solving. I enjoy working on practical projects, exploring new ideas, and challenging myself to achieve better results.<br>I am currently a second-year student at the Faculty of Computers and Artificial Intelligence – Helwan University, and I achieved a GPA of 3.0 last semester. With a positive attitude and a commitment to growth, I aim to build a successful academic and professional path in the field of computing and AI.
 
 
