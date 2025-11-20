@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 **AbdalluhMahmoud/AbdalluhMahmoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are # 💫 About Me:
@@ -39,4 +37,4 @@ I am a dedicated and motivated individual with a strong passion for learning and
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  
